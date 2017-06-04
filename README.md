@@ -1,7 +1,6 @@
 ### German Verb Conjugator
 
-*This is the very first project I completed (not including my Master's Thesis) that involved some sort of programming 
-and I completed it towards the end of 2015*
+*This is the very first project I completed in Java (late 2015)*
 
 This aim of this project is to apply what I have learned in "Introduction to Programming in Java (MIT)" and the "Java^TM Tutorial"
 
